@@ -1,0 +1,11 @@
+{
+  "name": "com.example.urpsettings",
+  "version": "1.0.0",
+  "description": "Allows players to manage and edit URP settings in run time through UI.",
+  "displayName": "URP Settings",
+  "unity": "2021.3",
+  "unityRelease": "3f1",
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "10.4.0"
+  }
+}
